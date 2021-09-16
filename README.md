@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vasuveda
+- 👋 Hi, I’m @Vasudeva
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning what I need
 - 📫 How to reach me "where everybody knows your name"
