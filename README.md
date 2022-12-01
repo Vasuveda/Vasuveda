@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vasudeva
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning what I need
-- 📫 How to reach me "where everybody knows your name"
+- 🌱 Perpetually learning
+- 📫 How to reach me: "where everybody knows your name"
 
 <!---
 Vasuveda/Vasuveda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
